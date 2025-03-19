@@ -15,13 +15,13 @@
 
 - 📫 Email: **zahraali.tech@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/zahra/Documents/zahraali:Zahra%20Ali%20-%20Software%20Engineer%20Resume.pdf](file:///Users/zahra/Documents/zahraali:Zahra%20Ali%20-%20Software%20Engineer%20Resume.pdf)
+- 📄 Know about my experiences: [www.linkedin.com/in/zahra-alii/](www.linkedin.com/in/zahra-alii/)
 
 - ⚡ Fun fact: **I love spontaneous roadtrips.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x.com/zahraalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/zahraalidev" height="30" width="40" /></a>
+<a href="https://twitter.com/zahraalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahraalidev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/zahra-alii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zahra-alii/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/zahra-ali/pfbid033xc7d22xe5abddf7uzykaqatv5lipnanvhqkq3sfktdxficggfef8xk2tpna9ryel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/zahra-ali/pfbid033xc7d22xe5abddf7uzykaqatv5lipnanvhqkq3sfktdxficggfef8xk2tpna9ryel/" height="30" width="40" /></a>
 </p>
