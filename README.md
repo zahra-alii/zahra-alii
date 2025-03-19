@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **C++**
 
-- 👨‍💻 See all of my projects & portfolio at [https://zahraali.netlify.app/](https://zahraali.netlify.app/)
+- 👩‍💻 See all of my projects & portfolio at [https://zahraali.netlify.app/](https://zahraali.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python.**
 
