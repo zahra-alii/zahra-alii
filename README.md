@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python and React.**
 
-- 👯 I’m looking to collaborate on **awesome full-stack development projects.**
+- 👯 I’m looking to collaborate on **awesome web development projects.**
 
 - 🤝 I’m looking for help with **C++**
 
