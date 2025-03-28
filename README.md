@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Ali.</h1>
-<h3 align="center">Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.</h3>
+<h3 align="center">A creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.</h3>
 
 - 🔭 I’m currently working on **client work.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [www.linkedin.com/in/zahra-alii/](www.linkedin.com/in/zahra-alii/)
 
-- ⚡ Fun fact: **I love spontaneous roadtrips.**
+- ⚡ Fun fact about me: **I love spontaneous roadtrips.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
