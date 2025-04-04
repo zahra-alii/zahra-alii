@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Ali.</h1>
-<h3 align="center"><em>A creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front-end and back-end web applications. Looking to bring my skills to a tech company with global reach.</em></h3>
+<h3 align="center">A creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front-end and back-end web applications. Looking to bring my skills to a tech company with global reach.</h3>
 
 - 🔭 I’m currently working on **client work.**
 
